@@ -24,7 +24,7 @@
 ### Personal Projects
    - **Front End**
    ```
-    https://github.com/
+    https://github.com/thienhv-dev/front_end
    ```
    - **Algorithms PHP**
    
@@ -49,6 +49,6 @@
     - Course: PHP & Laravel Programming
     - GPA: N.A
 ### Contact
-   - Email:
-   - GitHub:
-   - LinkedIn: 
+   - Email: hvthien.dev@gmail.com
+   - GitHub: [Github](https://github.com/thienhv-dev/)
+   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thienhv-dev/)
