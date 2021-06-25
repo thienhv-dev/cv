@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86486093/123468823-7e389d80-d61c-11eb-9a27-22a152e82eb3.jpg" width="100" height="100" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/86486093/123468823-7e389d80-d61c-11eb-9a27-22a152e82eb3.jpg" width="350" height="350" alt="accessibility text">
 </p>
+
 # THIEN HO VAN 
     -   Address: Q.HaI Chau TP.Da Nang
     -   Phone: (+84) 783 743 269
     -   Email: hvthien.dev@gmail.com
+    
 ### Summary
 
    - I am a developer specializing in PHP, experienced in full-stack web development through projects with Laravel. I consider myself as a clean coder, proactive team worker, and thorough supporter. Despite my lack of experience and knowledge, I am willing to learn, to be corrected, and to improve myself.
