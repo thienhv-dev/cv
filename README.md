@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86486093/123468823-7e389d80-d61c-11eb-9a27-22a152e82eb3.jpg" width="350" height="350" alt="accessibility text">
-</p>
+
 
 # THIEN HO VAN 
     -   Address: Q.HaI Chau TP.Da Nang
