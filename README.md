@@ -7,7 +7,7 @@
     
 ### Summary
 
-   - I am a developer specializing in PHP, experienced in full-stack web development through projects with Laravel. I consider myself as a clean coder, proactive team worker, and thorough supporter. Despite my lack of experience and knowledge, I am willing to learn, to be corrected, and to improve myself.
+   - I am a web developer, specialized in PHP with experience in full-stack web development through projects. I consider myself a programmer. I am an active and enthusiastic member of the team. Despite my lack of experience and knowledge, I am willing to learn more and improve myself to be better.
     
    - My desired position: **PHP Developer**.
 ### Skills
@@ -16,7 +16,7 @@
    - Technologies: **Laravel**
    - Database: **MySQL (phpMyAdmin).**
    - Tools: **Visual studio code, GitHub, Docker**
-   - Soft skills: **Team working, reading and understanding English**
+   - Soft skills: **Teamwork, Reading and understanding english documents**
 ### Experience
    - **Desgine**
      - **FPT Complex DANANG**
@@ -27,7 +27,7 @@
 ### Personal Projects
    - **Front End**
    ```
-    https://github.com/thienhv-dev/front_end
+    https://github.com/thienhv-dev/front_end/
    ```
    - **Wordpress**
    ```
@@ -35,11 +35,11 @@
    ```
    - **Algorithms PHP**
   ```
-   https://github.com/thienhv-dev/algorithms_PHP
+   https://github.com/thienhv-dev/algorithms_PHP/
   ```
    - **Fast Food (Laravel)**
    ```
-    https://github.com/thienhv-dev/fast_food.git
+    https://github.com/thienhv-dev/fast_food/
    ```
    - **Update Laravel**
    ```
