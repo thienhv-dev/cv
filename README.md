@@ -60,5 +60,8 @@
     - GPA: N.A
 ### Contact
    - Email: hvthien.dev@gmail.com
+   ```
+   hvthien.dev@gmail.com
+   ```
    - GitHub: [Github](https://github.com/thienhv-dev/)
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thienhv-dev/)
