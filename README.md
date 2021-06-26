@@ -1,7 +1,7 @@
 
 
 # THIEN HO VAN 
-    -   Address: Q.HaI Chau TP.Da Nang
+    -   Address: HaI Chau District, Danang City
     -   Phone: (+84) 783 743 269
     -   Email: hvthien.dev@gmail.com
     
@@ -31,7 +31,7 @@
    ```
    - **Wordpress**
    ```
-    https://www.russinvecchi.com.vn/contact/
+    https://www.russinvecchi.com.vn/
    ```
    - **Algorithms PHP**
   ```
@@ -47,9 +47,9 @@
    ```
 ### Education
 
-   - **University of Technology and Education - The University of Da Nang**
+   - **University of Technology and Education - The University of Danang**
    
-    - Date: 09/2015 to 09/2019
+    - Date: 09/2015 to 03/2019
     - Major: Information Technology
     - GPA: 2.5
     - Rank: Good
