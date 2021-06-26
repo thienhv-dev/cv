@@ -29,11 +29,18 @@
    ```
     https://github.com/thienhv-dev/front_end
    ```
+   - **Wordpress**
+   ```
+    https://
+   ```
    - **Algorithms PHP**
-   
   ```
    https://github.com/thienhv-dev/algorithms_PHP
   ```
+   - **Fast Food (Laravel)**
+   ```
+    https://github.com/thienhv-dev/fast_food.git
+   ```
    - **Update Laravel**
    ```
     https://github.com/
